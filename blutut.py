@@ -93,6 +93,7 @@ class Mesin(object):
 		except Exception, err:
 			print err
 
+#main
 if __name__ == "__main__":
 	bt = Mesin()
 	bt.main()
